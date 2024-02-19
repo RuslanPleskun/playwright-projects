@@ -1,0 +1,7 @@
+{
+  "links": {
+    "login": "/auth/login",
+    "forgotPassword": "/auth/forgot-password",
+    "externalLogin": "/auth/external-login"
+  }
+}
